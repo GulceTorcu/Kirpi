@@ -1,0 +1,16 @@
+.sidebar {
+    display: flex;
+    height: 100vh;
+    overflow: scroll initial;
+    background-color:#8e8d8f;
+}
+
+.header {
+    text-decoration: none;
+    color: inherit;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
+}

@@ -1,8 +1,10 @@
 import React, { Component } from "react"
 
-class Dashboard extends Component{
-    render(){
-        return(<>Test</>)
+class Dashboard extends Component {
+    render() {
+        return (<>
+            
+        </>)
     }
 }
 
